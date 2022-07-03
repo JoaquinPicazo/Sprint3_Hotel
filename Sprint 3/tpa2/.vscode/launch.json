@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-TpademoApplication<tpademo>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.vaadinwork.tpademo.TpademoApplication",
+            "projectName": "tpademo",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
